@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pathfit 1 final app</string>
+
+    <string name="get_started">Get Started</string>
+
+    <string name="explore_text">Step into a World of \nMovement Let's Explore!</string>
+
+    <string name="image_description">Splash Screen Image</string>
+</resources>
