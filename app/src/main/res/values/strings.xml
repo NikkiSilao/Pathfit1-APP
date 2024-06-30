@@ -3,7 +3,15 @@
 
     <string name="get_started">Get Started</string>
 
-    <string name="explore_text">Step into a World of \nMovement Let's Explore!</string>
+    <string name="explore_text_part1">Step into a World of</string>
+    <string name="explore_text_part2">Movement Let\'s Explore!</string>
+
 
     <string name="image_description">Splash Screen Image</string>
+
+    <string name="lessons">Lessons</string>
+
+    <string name="menu">Menu</string>
+
+    <string name="settings">Settings</string>
 </resources>
